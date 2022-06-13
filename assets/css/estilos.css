@@ -5,7 +5,7 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/noor-salim-C7UJ1Pu_S_I-unsplash.jpg");
+  background-image: url("../img/bg-hero.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
@@ -13,7 +13,7 @@ body {
 
 /* Mis trabajos */
 
-#Mis-trabajos .image-top {
+#Destinos .image-top {
   height: 250px;
   background-repeat: no-repeat;
   background-size: cover;
